@@ -19,7 +19,7 @@ body {
   font-family: "Barlow Condensed", sans-serif;
   background-color: white;
   padding: 20px;
-  overflow:hidden;
+/*   overflow:hidden; */
 }
 .bg {
   position: absolute;
